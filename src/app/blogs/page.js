@@ -2,7 +2,7 @@ export default function blogs()
 {
     return (
         <>
-        <h1>Hello</h1>
+        <h1>Hello World</h1>
         </>
     )
 }
